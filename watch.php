@@ -56,7 +56,7 @@
          <!-- Sidebar -->
          <ul id="list" class="sidebar navbar-nav list">
             <li class="nav-item">
-               <a class="channel nav-link" data-value="http://cloud.navve.tv:8080/live/1234.m3u8" href="javascript:void(0);">National GEO People</a>
+               <a class="channel nav-link" data-value="https://iptv-org.github.io/iptv/countries/in.m3u" href="javascript:void(0);">National GEO People</a>
             </li>
             <li class="nav-item">
                <a class="channel nav-link" data-value="http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8" href="javascript:void(0);">National GEO</a>
